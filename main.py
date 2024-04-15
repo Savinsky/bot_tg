@@ -1,6 +1,6 @@
 import telebot, datetime
 
-bot = telebot.TeleBot('6698192087:AAHfDFSYXlc0m3chrldzd779Qpl4N2Etmrk') # Токен
+bot = telebot.TeleBot('6698192087:AAHfDFSYXlc0m3chrldzd779**********') # Токен
 chat_id = "" # User
 date_remind = datetime.date.today() + datetime.timedelta(days=1) # Переменная дата встречи. Например, завтра.
 zoom_link = "https://zoom.us/meeting/123456789"  # Замените на реальную ссылку на Zoom.
